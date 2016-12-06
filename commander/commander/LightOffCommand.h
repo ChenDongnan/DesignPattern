@@ -1,0 +1,18 @@
+//
+//  LightOffCommand.h
+//  commander
+//
+//  Created by 陈栋楠 on 2016/12/6.
+//  Copyright © 2016年 陈栋楠. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "commandInterface.h"
+#import "Light.h"
+@interface LightOffCommand : NSObject<commandInterface>
+
+@property(strong,nonatomic)Light *light;
+-(instancetype)initWithLight:(Light *)light;
+
+
+@end
