@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FlyWeightPattern.xcscheme</key>
+		<key>Composite.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>124B3EE31E2635A200C85225</key>
+		<key>125B1E6B1E27350700A933C0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>124B3EFC1E2635A200C85225</key>
+		<key>125B1E841E27350700A933C0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>124B3F071E2635A200C85225</key>
+		<key>125B1E8F1E27350700A933C0</key>
 		<dict>
 			<key>primary</key>
 			<true/>

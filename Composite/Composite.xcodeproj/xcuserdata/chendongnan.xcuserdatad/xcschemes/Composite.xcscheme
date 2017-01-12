@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "124B3EE31E2635A200C85225"
-               BuildableName = "FlyWeightPattern.app"
-               BlueprintName = "FlyWeightPattern"
-               ReferencedContainer = "container:FlyWeightPattern.xcodeproj">
+               BlueprintIdentifier = "125B1E6B1E27350700A933C0"
+               BuildableName = "Composite.app"
+               BlueprintName = "Composite"
+               ReferencedContainer = "container:Composite.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "124B3EFC1E2635A200C85225"
-               BuildableName = "FlyWeightPatternTests.xctest"
-               BlueprintName = "FlyWeightPatternTests"
-               ReferencedContainer = "container:FlyWeightPattern.xcodeproj">
+               BlueprintIdentifier = "125B1E841E27350700A933C0"
+               BuildableName = "CompositeTests.xctest"
+               BlueprintName = "CompositeTests"
+               ReferencedContainer = "container:Composite.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "124B3F071E2635A200C85225"
-               BuildableName = "FlyWeightPatternUITests.xctest"
-               BlueprintName = "FlyWeightPatternUITests"
-               ReferencedContainer = "container:FlyWeightPattern.xcodeproj">
+               BlueprintIdentifier = "125B1E8F1E27350700A933C0"
+               BuildableName = "CompositeUITests.xctest"
+               BlueprintName = "CompositeUITests"
+               ReferencedContainer = "container:Composite.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "124B3EE31E2635A200C85225"
-            BuildableName = "FlyWeightPattern.app"
-            BlueprintName = "FlyWeightPattern"
-            ReferencedContainer = "container:FlyWeightPattern.xcodeproj">
+            BlueprintIdentifier = "125B1E6B1E27350700A933C0"
+            BuildableName = "Composite.app"
+            BlueprintName = "Composite"
+            ReferencedContainer = "container:Composite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "124B3EE31E2635A200C85225"
-            BuildableName = "FlyWeightPattern.app"
-            BlueprintName = "FlyWeightPattern"
-            ReferencedContainer = "container:FlyWeightPattern.xcodeproj">
+            BlueprintIdentifier = "125B1E6B1E27350700A933C0"
+            BuildableName = "Composite.app"
+            BlueprintName = "Composite"
+            ReferencedContainer = "container:Composite.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "124B3EE31E2635A200C85225"
-            BuildableName = "FlyWeightPattern.app"
-            BlueprintName = "FlyWeightPattern"
-            ReferencedContainer = "container:FlyWeightPattern.xcodeproj">
+            BlueprintIdentifier = "125B1E6B1E27350700A933C0"
+            BuildableName = "Composite.app"
+            BlueprintName = "Composite"
+            ReferencedContainer = "container:Composite.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
